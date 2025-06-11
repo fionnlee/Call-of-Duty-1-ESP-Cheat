@@ -18,4 +18,7 @@ Created a basic ESP cheat for Call of Duty 1.1 (2003) that shows player location
 0xC4 //Pitch
 
 Exploit
-0x1CBB0C //weapon 32```
+0x1CBB0C //weapon 32
+```
+
+![Menu](https://github.com/fionnlee/Call-of-Duty-1-ESP-Cheat/blob/main/image/menu.png?raw=true)

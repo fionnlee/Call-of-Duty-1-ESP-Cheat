@@ -22,3 +22,8 @@ Exploit
 ```
 
 ![Menu](https://github.com/fionnlee/Call-of-Duty-1-ESP-Cheat/blob/main/image/menu.png?raw=true)
+
+#Note
+<b>This cheat does not work in fullscreen mode. Use your preferred DLL injector to inject the cheat into the game.
+Make sure to inject the DLL while connecting to a server.
+This is a simple ESP cheat made just for fun — don’t take it too seriously.</b>

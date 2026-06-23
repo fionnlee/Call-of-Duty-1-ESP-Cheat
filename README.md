@@ -23,6 +23,16 @@ Exploit
 
 ![Menu](https://github.com/fionnlee/Call-of-Duty-1-ESP-Cheat/blob/main/image/menu.png?raw=true)
 
+iex> VirusTotal.file_report(:foo, "fcc52f2f7fa0ba312da2acbfb0ad8ee6b92e31e3b42de9e895fc3091299d5040")
+{:ok,
+ %{"md5" => "2d9e7a142920ae347685efff5bd6024d",
+   "permalink" => "https://www.virustotal.com/file/fcc52f2f7fa0ba312da2acbfb0ad8ee6b92e31e3b42de9e895fc3091299d5040/analysis/1455970042/",
+   "positives" => 0,
+   "resource" => "fcc52f2f7fa0ba312da2acbfb0ad8ee6b92e31e3b42de9e895fc3091299d5040",
+   "response_code" => 1, "scan_date" => "2016-02-20 12:07:22",
+   "scan_id" => "c98c24b677eff44860afea6f493bbaec5bb1c4cbb209c6fc2bbb47f66ff2ad31-1455970042",
+   "scans" => %{}}}
+...
 # Note!
 <b>This cheat does not work in fullscreen mode. Use your preferred DLL injector to inject the cheat into the game.
 This is a simple ESP cheat made just for fun — don’t take it too seriously.</b>

@@ -1,5 +1,5 @@
 # Call of Duty 1 ESP Cheat
-Created a basic ESP cheat for Call of Duty 1.1 (2003) that shows player locations and simple visual info on screen.
+Created a basic cheat  **Menu** for Call of Duty 1.1  & 1.1x (2003) that shows player locations ,basic aimbot and game exploit.
 ```
 0x18BC04 //Entity List between 0x448
 0x14 // name
@@ -25,7 +25,6 @@ Exploit
 
 # Note!
 <b>This cheat does not work in fullscreen mode. Use your preferred DLL injector to inject the cheat into the game.
-Make sure to inject the DLL while connecting to a server.
 This is a simple ESP cheat made just for fun — don’t take it too seriously.</b>
 
 # Discord
